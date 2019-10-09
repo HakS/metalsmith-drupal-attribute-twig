@@ -1,8 +1,8 @@
-# Metalsmith Plugin for Drupal Attributes [![NPM version](https://img.shields.io/npm/v/metalsmith-jstransformer.svg)](https://www.npmjs.org/package/metalsmith-jstransformer)
+# Metalsmith Plugin for Drupal Attributes [![NPM version](https://img.shields.io/npm/v/metalsmith-drupal-attribute-twig.svg)](https://www.npmjs.com/package/metalsmith-drupal-attribute-twig)
 
-[![Build Status](https://img.shields.io/travis/kalamuna/metalsmith-jstransformer/master.svg)](https://travis-ci.org/kalamuna/metalsmith-jstransformer)
-[![Dependency Status](https://david-dm.org/kalamuna/metalsmith-jstransformer.png)](https://david-dm.org/kalamuna/metalsmith-jstransformer)
-[![Greenkeeper badge](https://badges.greenkeeper.io/kalamuna/metalsmith-jstransformer.svg)](https://greenkeeper.io/)
+[![Build Status](https://img.shields.io/travis/kalamuna/metalsmith-jstransformer/master.svg)](https://travis-ci.org/HakS/metalsmith-drupal-attribute-twig)
+[![Dependency Status](https://david-dm.org/HakS/metalsmith-drupal-attribute-twig.png)](https://david-dm.org/HakS/metalsmith-drupal-attribute-twig)
+[![Greenkeeper badge](https://badges.greenkeeper.io/HakS/metalsmith-drupal-attribute-twig.svg)](https://greenkeeper.io/)
 
 [Metalsmith](http://metalsmith.io) plugin to look for Drupal Attribute JSON maps to transform into Drupal Attribute objects for Twig
 
