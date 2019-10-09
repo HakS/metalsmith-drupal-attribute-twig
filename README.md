@@ -1,4 +1,4 @@
-# Metalsmith Plugin for Drupal Attributes [![NPM version](https://img.shields.io/npm/v/metalsmith-jstransformer.svg)](https://www.npmjs.org/package/metalsmith-jstransformer)
+# Metalsmith Plugin for Drupal Attributes [![NPM version](https://img.shields.io/npm/v/metalsmith-jstransformer.svg)](https://www.npmjs.com/package/metalsmith-drupal-attribute-twig)
 
 [![Build Status](https://img.shields.io/travis/kalamuna/metalsmith-jstransformer/master.svg)](https://travis-ci.org/kalamuna/metalsmith-jstransformer)
 [![Dependency Status](https://david-dm.org/kalamuna/metalsmith-jstransformer.png)](https://david-dm.org/kalamuna/metalsmith-jstransformer)
